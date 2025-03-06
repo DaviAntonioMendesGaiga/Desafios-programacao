@@ -12,4 +12,4 @@ O Que aprendi com o projeto:
 
 -Priorizar o uso do else do que ifs separados para verificações,pois os ifs separados podem travar o programa ou aplicar a lógica do programa de forma errada(demorei um pouco a mais por conta desse detalhe)
 
--Else também evita verificações desnecessárias e ajuda de forma que cobre todas ou maior parte das possibilidades que o If relativo não cobriu,portanto seu uso é mais prático do que a tecnica que eu usava,que se baseava em evitar o uso do else e colocar mais ifs para verificação.
+-Else também evita verificações desnecessárias e ajuda de forma que cobre todas ou maior parte das possibilidades que o If relativo não cobriu,portanto seu uso é mais prático do que a técnica que eu usava,que se baseava em evitar o uso do else e colocar mais ifs para verificação.
